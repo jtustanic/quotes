@@ -1,0 +1,54 @@
+body {
+    font-family: 'Questrial';font-size: 20px; 
+    
+}
+.mainHeader{
+    display: flex;
+    flex-direction: row;
+    background-color: #bec7c0;
+    height: 60px;
+    margin: 0px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.subHeader{
+    background-color: #bec7c0;
+    text-align: center;
+    margin: 15px;
+    width: 65px;
+    
+}
+
+.subHeader:hover{
+    cursor: pointer;
+    background-color: white;
+
+}
+
+.welcome{
+    font-family: 'Yellowtail';font-size: 95px;
+    text-align: center;
+    letter-spacing: 11px;
+}
+
+.welcome2{
+    font-family: 'Work Sans';font-size: 55px;
+    text-align: center;
+}
+
+
+.subHeader2{
+    background-color: #bec7c0;
+    height: 70px;
+    margin: 0px;    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: 'Questrial';font-size: 20px; 
+}
